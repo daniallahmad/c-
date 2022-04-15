@@ -1,10 +1,10 @@
 /**
-	CS-1A
-    Purpose: Program that accepts a positive and displays the factorial of the value.
-    @file factorial.cpp
+	CS-1A, C++ Practice
+	Purpose: Program that accepts a positive and displays the factorial of the value.
+	@file factorial.cpp
 	
-    @author Daniall Ahmad
-    @date 14/04/22 
+	@author Daniall Ahmad
+	@date 15/04/22 
 	
 */
 
@@ -13,7 +13,7 @@
 using namespace std;
 int main()
 {
-    int value;
+	int value;
 	int factorial = 1;
 	cout << "Enter a positive value : ";
 	cin >> value;
@@ -24,6 +24,6 @@ int main()
 	}
 	cout << "Factorial of value " <<value<<" is : "<<factorial<<endl;
 	
-    _getch();
+	_getch();
 	return 0;
 }
