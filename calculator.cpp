@@ -1,6 +1,6 @@
 /**
 	CS-1A Asn 1,
-    Purpose: Calculator which performs all arithmetical operations ( / % * + - ).
+    Purpose: Calculator which performs all arithmetical operations ( /, *, +, - ).
     @file calculator.cpp
 	
     @author Daniall Ahmad
