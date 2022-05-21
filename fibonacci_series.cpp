@@ -49,7 +49,7 @@ int main()
 }
 
 
-/* {rint Fibonaaci Series b/w lower and upper limit */
+/* Print Fibonaaci Series b/w lower and upper limit */
 
 
 #include <iostream>
