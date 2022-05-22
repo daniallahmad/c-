@@ -1,10 +1,10 @@
 /**
-CS-1A Asn 2,
-Purpose: Prints Pyramids.
-@file pyramids.cpp
+    CS-1A Asn 2,
+    Purpose: Prints Pyramids.
+    @file pyramids.cpp
 
-@author Daniall Ahmad
-@date 22/05/22 
+    @author Daniall Ahmad
+    @date 22/05/22 
 	
 */
 
@@ -113,3 +113,8 @@ int main()
 
     return 0;
 }
+
+
+
+<h1>Output of code will be</h1>
+<img src="jkljojpokpk.png"></img>
