@@ -113,8 +113,3 @@ int main()
 
     return 0;
 }
-
-
-
-<h1>Output of code will be</h1>
-<img src="jkljojpokpk.png"></img>
