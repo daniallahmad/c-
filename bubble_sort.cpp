@@ -1,5 +1,5 @@
 /**
-    CS-1A Asn 1,
+    CS-1A, C++ Practice
     Purpose: Write a C++ program to sort a given unsorted array of integers using Bubble Sort.
     @file bubble_sort.cpp
 
