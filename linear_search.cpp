@@ -16,7 +16,9 @@ int findIndex(int arr[], int n);
 int main()
 {
 	int arr[10] = {80, 10, 18, 29, 98, 37, 1, 35, 46, 76};
-	int number = 76;
+	int number ;
+	cout << "Enter a number to find Index : ";
+	cin >> number;
 	int check = findIndex(arr, number);
 	if (check == -1)
 	{
@@ -24,7 +26,7 @@ int main()
 	}
 	else
 	{
-		cout << "Number is present at index: " << check;
+		cout << "Number is present at Index : " << check;
 	}
 	return 0;
 }
