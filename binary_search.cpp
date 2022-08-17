@@ -2,6 +2,7 @@
     CS-1A, C++ Practice
     Purpose: Write a C++ program to find a number in a given array of integers using Binary Search.
     @file binary_search.cpp
+    
     @author Daniall Ahmad
     @date 17/07/22
 */
