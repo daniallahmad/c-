@@ -1,5 +1,5 @@
 /**
-	CS-1A Asn 1,
+	CS-1A, C++ Practice
 	Purpose: Write a C++ program to find second largest number in unsorted array of integers.
 	@file second_largest.cpp
 
